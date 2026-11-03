@@ -1,0 +1,5 @@
+node_modules
+backend
+tests
+.env
+.finora_store.json
